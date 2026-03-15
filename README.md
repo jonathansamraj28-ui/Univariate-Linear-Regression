@@ -45,6 +45,8 @@ plt.show()
 
 ```
 ## Output
+<img width="935" height="553" alt="Screenshot 2025-12-18 101746" src="https://github.com/user-attachments/assets/41472154-5200-4752-af1d-3d8d503abde3" />
+<img width="928" height="581" alt="Screenshot 2025-12-18 101736" src="https://github.com/user-attachments/assets/fdb93594-0194-4965-89a2-cd26c15387d8" />
 
 
 ## Result
